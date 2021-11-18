@@ -12,7 +12,7 @@
    
    #LIQ+#RFI+#SHIB+#DOGE = #BEE
 
-   #SAFEMOON features:
+   #GOODBOI features:
    3% fee auto add to the liquidity pool to locked forever when selling
    2% fee auto distribute to all holders
    I created a black hole so #Bee token will deflate itself in supply with every transaction
@@ -719,8 +719,8 @@ contract SafeMoon is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = "SafeMoon";
-    string private _symbol = "SAFEMOON";
+    string private _name = "GBOI";
+    string private _symbol = "GOODBOI";
     uint8 private _decimals = 9;
     
     uint256 public _taxFee = 5;
